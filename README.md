@@ -4,7 +4,7 @@
 Computer Pointer Controller app is used to controll the movement of mouse pointer by the direction of eyes and also estimated pose of head. This app takes video as input and then app estimates eye-direction and head-pose and based on that estimation it move the mouse pointers.
 
 ## Demo video
-[![Demo video](https://youtu.be/tF46lRQlEuc)
+https://www.youtube.com/watch?v=tF46lRQlEuc
 
 ## Project Set Up and Installation
 
